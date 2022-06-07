@@ -13,7 +13,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.Table;
-import javax.persistence.Transient;
+
 
 @Entity
 @Table(name = "tb_product") 
@@ -35,6 +35,7 @@ public class Product implements  Serializable {
 	
 	private Set<Category> categories = new HashSet<>(); 
 	/*Set representa um conjunto assim um determinado produto com mais de uma ocorrência em uma mesma categoria não vai se repetir */
+	
 	public Product(){
 	}
 
@@ -46,7 +47,6 @@ public class Product implements  Serializable {
 		this.imgUrl = imgUrl;
 	}
 
-	
 	
 	public Long getId() {
 		return id;
@@ -91,6 +91,7 @@ public class Product implements  Serializable {
 	public Set<Category> getCategories() {
 		return categories;
 	}
+	
 	
 	@Override
 	public int hashCode() {
