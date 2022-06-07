@@ -12,7 +12,7 @@ import com.example.course.repositories.UserRepository;
 @Service
 public class UserService {
 
-	@Autowired
+	@Autowired  //annotation serve para injetar uma instância do objeto de forma automática
 	private UserRepository repository;
 	
 	public List<User> findAll(){

@@ -16,7 +16,7 @@ import com.example.course.services.UserService;
 @RequestMapping(value = "/users")
 public class UserResource {
 
-	@Autowired
+	@Autowired  
 	private UserService service;
 	
 	@GetMapping
