@@ -66,7 +66,6 @@ public class OrderItem implements Serializable{
 	}
 
 	
-	
 	@Override
 	public int hashCode() {
 		return Objects.hash(id);
