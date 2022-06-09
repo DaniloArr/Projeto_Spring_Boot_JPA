@@ -24,7 +24,6 @@
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="com.example.course.repositories.OrderRepository"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-    <fullyQualifiedTypeName name="java.time.Instant"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.jsonFormatVisitors.JsonFormatTypes"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
@@ -49,5 +48,10 @@
     <fullyQualifiedTypeName name="com.example.course.entities.pk.OrderItemPK"/>
     <fullyQualifiedTypeName name="com.example.course.entities.OrderItem"/>
     <fullyQualifiedTypeName name="com.example.course.repositories.OrderItemRepository"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+    <fullyQualifiedTypeName name="javax.persistence.MapsId"/>
+    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="com.example.course.entities.Payment"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
 </qualifiedTypeNameHistroy>
