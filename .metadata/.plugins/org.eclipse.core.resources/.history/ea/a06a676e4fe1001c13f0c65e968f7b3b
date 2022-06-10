@@ -1,5 +1,0 @@
-package com.example.course.entities.enums;
-
-public enum OrderStatus {
-
-}
