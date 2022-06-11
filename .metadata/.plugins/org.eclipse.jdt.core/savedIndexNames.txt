@@ -41,7 +41,6 @@ INDEX VERSION 1.131+C:\Users\danil\OneDrive\Documentos\devs\CourseUdemy\.metadat
 3851589876.index
 2997555090.index
 2144510424.index
-3655964561.index
 3425582376.index
 1704651730.index
 2308348905.index
