@@ -3,7 +3,7 @@
 # Projeto_Spring_Boot_JPA
 
 Esse é um projeto que foi feito durante as aulas do curso de Java com Programação Orientada a Objetos dirigidas pelo professor Nelio Alves.
- A ideia do projeto seria fazer um sistema com várias produtos, na qual eles possuem suas respectivas categorias. Além disso teria os usuário que poderiam fazer o cadastro no sistema realizar pedidos, os pedidos possuem os itens que o acompanham e o pagamento total.
+ A ideia do projeto seria fazer um sistema com várias produtos, na qual eles possuem suas respectivas categorias. Além disso teria os usuário que poderiam fazer o cadastro no sistema, realizar pedidos, os pedidos possuem os itens que o acompanham e o pagamento total.
  
  # Diagramas 
  
